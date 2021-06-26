@@ -1,2 +1,3 @@
 # manideep
-this is my first repositary
+nice to meet yu dear
+
